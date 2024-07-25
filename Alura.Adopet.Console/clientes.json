@@ -1,0 +1,13 @@
+[
+  {
+    "id": "8097847b-7b15-4f80-8af9-dc7dc161a4ad",
+    "nome": "Fulano de Tal",
+    "email": "fulano@example.org"
+  },
+  {
+    "id": "01068db0-4d6f-4e51-a117-6fcaae5d4189",
+    "nome": "Jose Silva",
+    "email": "silva@example.org",
+    "cpf": "1312312"
+  }
+]
