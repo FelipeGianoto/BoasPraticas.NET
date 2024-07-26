@@ -9,7 +9,7 @@ namespace Alura.Adopet.Console.Settings
             return new ConfigurationBuilder()
                 .SetBasePath(Directory.GetCurrentDirectory())
                 .AddJsonFile("appsettings.json", optional: false, reloadOnChange: true)
-                .AddUserSecrets("3ea57a57-cd2b-41de-a5d3-a5753c51418d")
+                //.AddUserSecrets("")
                 .Build();
         }
 
